@@ -1,0 +1,12 @@
+.box P {
+    color: red;
+}
+.box P {
+    background-color: steelblue;
+}
+.box + P {
+    color: greenyellow;
+  }
+  .box ~ P{
+    background-color: lightcoral;
+  }

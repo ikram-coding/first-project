@@ -1,0 +1,15 @@
+#banner {
+    height: 100vh;
+    background-image: url(../res/liana-mikah-L5cEmk3ucYY-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.navigation{
+height: 80px;
+background-color: white;
+}
+#nav-logo{
+    height: 80px;
+    width: auto;
+}
